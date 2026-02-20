@@ -1,0 +1,5 @@
+{
+  "name": "Copy of JIS B 0405 Tolerance Calculator",
+  "description": "A professional engineering utility for calculating general tolerances for linear dimensions according to the JIS B 0405-1991 standard. Supports fine, medium, coarse, and extra coarse classes.",
+  "requestFramePermissions": []
+}
